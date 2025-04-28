@@ -28,4 +28,6 @@ Thank you for visiting my repository. Feel free to explore and verify my achieve
 
 ---
 
-![GitHub Stars](https://img.shields.io/github/stars/jrohitofficial/certifications?style=social) ![GitHub Forks](https://img.shields.io/github/forks/jrohitofficial/certifications?style=social)
+[![GitHub Stars](https://img.shields.io/github/stars/jrohitofficial/certifications?style=social)](https://github.com/jrohitofficial/Online-Certifications-Awards) 
+[![GitHub Forks](https://img.shields.io/github/forks/jrohitofficial/certifications?style=social)](https://github.com/jrohitofficial/Online-Certifications-Awards)
+
